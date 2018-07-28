@@ -85,9 +85,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{youtube: "UceaB4D0jpo", name: "rockstar"},
+	{youtube: "nT04upwfsiI", name: "Ballin"},
+	{youtube: "4vDi12hdVs&t=22s", name: "Eugene-Potato"}
 ];
 
 /*Random music order?*/
@@ -103,11 +103,9 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Спасибо за посещение сервера",
-"Главные админы сервера: MyKing, MalinaBoy, Mango",
-"За убийство без причины вы сядете в Джаил на 300 секунд",
-"За Нарушения ФирРП вы сядете в Джаил на 450 секунд",
-"За Лив с Джайла вы полетите в бан на 3 дня",
-"Контент сервера по адресу F4>Сайт и скачивайте!",
+"Контент F4>Сайт",
+"Кодер: MyKing",
+"Гл. Администрация: MalinaBoy, Mango и MyKing",
 ];
 
 /*Random message order?*/
